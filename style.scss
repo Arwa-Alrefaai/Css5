@@ -1,0 +1,19 @@
+@import "container";
+
+$color_body: #d9d2e9;
+$color_header: #b8abda;
+
+
+
+
+h1{
+    background-color: $color_header;
+    margin: 0;
+    text-shadow:#d9d2e9 ;
+    text-align: center;
+    color:#7a5677;
+    
+}
+body{
+    background-color: #d9d2e9;
+}
